@@ -1,6 +1,7 @@
+# this is the initial list
 colors = ["red", "green", "purple"]
 print("Color list: ", colors)
-
+# append adds new item to a list
 colors.append("orange")
 print("Updated color list: ", colors)
 
